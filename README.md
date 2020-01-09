@@ -14,14 +14,14 @@
 This application is a list that allows you to add new tasks, update or delete them.
 
 ## Screenshots
-![Example screenshot](./img/1.png)
-![Example screenshot](./img/2.png)
-![Example screenshot](./img/3.png)
-![Example screenshot](./img/4.png)
-![Example screenshot](./img/5.png)
-![Example screenshot](./img/6.png)
-![Example screenshot](./img/7.png)
-![Example screenshot](./img/8.png)
+![Example screenshot](./jpg/1.png)
+![Example screenshot](./jpg/2.png)
+![Example screenshot](./jpg/3.png)
+![Example screenshot](./jpg/4.png)
+![Example screenshot](./jpg/5.png)
+![Example screenshot](./jpg/6.png)
+![Example screenshot](./jpg/7.png)
+![Example screenshot](./jpg/8.png)
 
 ## Technologies
 * Java
